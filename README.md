@@ -42,7 +42,6 @@ A personal portfolio website showcasing my projects, skills, and contact informa
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aditya28n99&show_icons=true&theme=radical" alt="Aditya's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aditya28n99&theme=radical" alt="Aditya's GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya28n99&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
