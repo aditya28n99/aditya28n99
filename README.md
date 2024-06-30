@@ -7,7 +7,7 @@
 I am a passionate web developer with a strong foundation in both frontend and backend technologies. After completing my Mechanical Engineering degree with distinction, I transitioned into the IT field and have been thriving ever since. I am proficient in the MERN stack and continuously explore new technologies to enhance my skill set.
 
 - 🌟 **Frontend**: React.js, Electron.js, HTML5, CSS3, JavaScript, Bootstrap, Tailwind CSS, MIUI, Styled Components
-- 🌟 **Backend**: Node.js, Express.js, MySQL, API Integrations
+- 🌟 **Backend**: Node.js, Express.js, Core Java, MySQL, API Integrations
 - 🌟 **Other Technologies**: Git, GitHub,  Android Development, Flutter, Dart
 - 🌟 **Current Learning**: Exploring Next.js and Svelte for modern web applications
 
